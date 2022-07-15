@@ -10,13 +10,3 @@ export default function User() {
   )
 }
 
-// export async function getStaticPaths() {
-//     const router = useRouter()
-//     console.log(router.query);
-//     return {
-//       paths: [
-//         { } // See the "paths" section below
-//       ],
-//       fallback: "blocking" // See the "fallback" section below
-//     };
-//   }
