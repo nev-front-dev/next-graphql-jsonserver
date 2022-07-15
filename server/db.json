@@ -1,0 +1,36 @@
+{
+    "items":[
+        { 
+            "id":1,
+            "name": "John Doe", 
+            "age": "32",
+            "avatar":"/static/image-1.png",
+            "height": "250",
+            "width":"350"
+        },
+        { 
+            "id":2,
+            "name": "JSammy Bull", 
+            "age": "32",
+            "avatar":"/static/image-2.jpg",
+            "height": "250",
+            "width":"350"
+        },
+        { 
+            "id":3,
+            "name": "Titto Riino", 
+            "age": "32",
+            "avatar":"/static/image-3.png",
+            "height": "250",
+            "width":"350"
+        },
+        { 
+            "id":4,
+            "name": "Slim Shady", 
+            "age": "32",
+            "avatar":"/static/image-4.png",
+            "height": "250",
+            "width":"350"
+        }
+    ]
+}
